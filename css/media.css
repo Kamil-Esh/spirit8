@@ -21,7 +21,7 @@
     header .mobile-menu {
         display: block;
         z-index: 5;
-        position: sticky;
+        position: fixed;
     }
 
     .top-menu {
