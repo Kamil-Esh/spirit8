@@ -78,9 +78,6 @@ header .mobile-menu {
   padding: 5px;
   position: absolute;
   right: 5%;
-  top: 0;
-  bottom: 0;
-  margin: auto;
 }
 
 header .mobile-menu span {
